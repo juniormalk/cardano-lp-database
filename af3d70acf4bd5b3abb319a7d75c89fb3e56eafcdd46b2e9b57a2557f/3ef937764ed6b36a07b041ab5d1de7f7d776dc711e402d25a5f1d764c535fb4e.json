@@ -1,12 +1,13 @@
 {
-    name: "3ef937764ed6b36a07b041ab5d1de7f7d776dc711e402d25a5f1d764c535fb4e",
-    policyId : "7a8041a0693e6605d010d5185b034d55c79eaf7ef878aae3bdcdbf67",
-    tokenA: {
-        name: "",
-        policyId : ""
+    "name": "3ef937764ed6b36a07b041ab5d1de7f7d776dc711e402d25a5f1d764c535fb4e",
+    "policyId" : "7a8041a0693e6605d010d5185b034d55c79eaf7ef878aae3bdcdbf67",
+    "defiName" : "muesliswap",
+    "tokenA": {
+        "name": "",
+        "policyId" : ""
     },
-    tokenB: {
-        name: "4d494c4b",
-        policyId : "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa",    
+    "tokenB": {
+        "name": "4d494c4b",
+        "policyId" : "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa",    
     }
 }
