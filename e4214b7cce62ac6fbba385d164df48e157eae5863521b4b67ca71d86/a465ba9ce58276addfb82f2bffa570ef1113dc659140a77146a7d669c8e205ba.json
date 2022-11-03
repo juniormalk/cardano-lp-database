@@ -9,5 +9,6 @@
     "tokenB": {
         "name": "534f4349455459",
         "policyId" : "25f0fc240e91bd95dcdaebd2ba7713fc5168ac77234a3d79449fc20c"
-    }
+    },
+    "poolAddress" : "stake1u9f9v0z5zzlldgx58n8tklphu8mf7h4jvp2j2gddluemnssjfnkzz"
 }
