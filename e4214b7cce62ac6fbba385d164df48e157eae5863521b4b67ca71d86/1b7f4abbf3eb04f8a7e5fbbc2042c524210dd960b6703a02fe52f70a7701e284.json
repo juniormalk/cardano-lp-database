@@ -1,6 +1,7 @@
 {
     "name": "1b7f4abbf3eb04f8a7e5fbbc2042c524210dd960b6703a02fe52f70a7701e284",
     "policyId" : "e4214b7cce62ac6fbba385d164df48e157eae5863521b4b67ca71d86",
+    "defiName" : "minswap",
     "tokenA": {
         "name": "",
         "policyId" : ""
