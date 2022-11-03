@@ -1,0 +1,12 @@
+{
+    "name": "6aa2153e1ae896a95539c9d62f76cedcdabdcdf144e564b8955f609d660cf6a2",
+    "policyId" : "e4214b7cce62ac6fbba385d164df48e157eae5863521b4b67ca71d86",
+    "tokenA": {
+        "name": "",
+        "policyId" : ""
+    },
+    "tokenB": {
+        "name": "4d494e",
+        "policyId" : "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c6",    
+    }
+}
