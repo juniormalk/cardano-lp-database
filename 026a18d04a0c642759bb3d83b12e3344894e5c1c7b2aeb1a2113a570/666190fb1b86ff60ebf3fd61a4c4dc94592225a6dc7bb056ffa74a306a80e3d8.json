@@ -1,7 +1,7 @@
 {
     "name": "666190fb1b86ff60ebf3fd61a4c4dc94592225a6dc7bb056ffa74a306a80e3d8",
     "policyId" : "026a18d04a0c642759bb3d83b12e3344894e5c1c7b2aeb1a2113a570",
-    "defiName" : "muesliswap",
+    "defiName" : "wingriders",
     "tokenA": {
         "name": "",
         "policyId" : ""
@@ -10,5 +10,5 @@
         "name": "444f4745",
         "policyId" : "6a5b299ca59af3e3bda98f542d260b17f90ce274dd61ec4628ec70d7"
     },
-    "poolAddress" : "addr1w8nvjzjeydcn4atcd93aac8allvrpjn7pjr2qsweukpnayghhwcpj"
+    "poolAddress" : "stake1uyjdm8tvrnfygyzytcwxyp6gcaq3s3vqz25kupgx0rlmckq5cluxy"
 }
