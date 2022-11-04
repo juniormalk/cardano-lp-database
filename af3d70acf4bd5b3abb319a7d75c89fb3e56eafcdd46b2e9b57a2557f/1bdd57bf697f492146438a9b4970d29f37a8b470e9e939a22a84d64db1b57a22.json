@@ -1,0 +1,14 @@
+{
+    "name": "1bdd57bf697f492146438a9b4970d29f37a8b470e9e939a22a84d64db1b57a22",
+    "policyId" : "af3d70acf4bd5b3abb319a7d75c89fb3e56eafcdd46b2e9b57a2557f",
+    "defiName" : "muesliswap",
+    "tokenA": {
+        "name": "",
+        "policyId" : ""
+    },
+    "tokenB": {
+        "name": "5052535052",
+        "policyId" : "52489ea87bbceaf6375cc22f74c19382a3d5da3f8b9b15d2537044b9"
+    },
+    "poolAddress" : "stake1u9cte3h6sluaffyu8uxvduqurdct60dx0f9detr4hrjhkvcs0x3jw"
+}
