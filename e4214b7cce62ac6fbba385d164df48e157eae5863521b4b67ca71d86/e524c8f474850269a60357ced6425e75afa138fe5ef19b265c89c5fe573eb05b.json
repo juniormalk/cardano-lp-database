@@ -1,0 +1,14 @@
+{
+    "name": "e524c8f474850269a60357ced6425e75afa138fe5ef19b265c89c5fe573eb05b",
+    "policyId" : "e4214b7cce62ac6fbba385d164df48e157eae5863521b4b67ca71d86",
+    "defiName" : "minswap",
+    "tokenA": {
+        "name": "",
+        "policyId" : ""
+    },
+    "tokenB": {
+        "name": "434c4159",
+        "policyId" : "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535"
+    },
+    "poolAddress" : "stake1u9f9v0z5zzlldgx58n8tklphu8mf7h4jvp2j2gddluemnssjfnkzz"
+}
