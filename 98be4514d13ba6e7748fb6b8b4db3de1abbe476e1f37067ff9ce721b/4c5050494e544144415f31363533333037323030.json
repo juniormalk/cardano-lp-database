@@ -1,0 +1,14 @@
+{
+    "name": "4c5050494e544144415f31363533333037323030",
+    "policyId" : "98be4514d13ba6e7748fb6b8b4db3de1abbe476e1f37067ff9ce721b",
+    "defiName" : "meowwap",
+    "tokenA": {
+        "name": "",
+        "policyId" : ""
+    },
+    "tokenB": {
+        "name": "50494e54",
+        "policyId" : "7e7dbfe44b4145a2f994a9c649ce84a3ee0706f06e9ec82360e0f642"
+    },
+    "poolAddress" : "addr1wxvtu3g56ya6dem537mt3dxm8hs6h0j8dc0nwpnll888yxcs0d44a"
+}
