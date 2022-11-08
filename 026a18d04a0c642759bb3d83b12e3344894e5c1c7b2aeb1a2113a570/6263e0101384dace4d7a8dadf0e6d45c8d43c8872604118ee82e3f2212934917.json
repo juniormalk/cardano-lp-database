@@ -1,0 +1,14 @@
+{
+    "name": "6263e0101384dace4d7a8dadf0e6d45c8d43c8872604118ee82e3f2212934917",
+    "policyId" : "026a18d04a0c642759bb3d83b12e3344894e5c1c7b2aeb1a2113a570",
+    "defiName" : "wingriders",
+    "tokenA": {
+        "name": "",
+        "policyId" : ""
+    },
+    "tokenB": {
+        "name": "4c51",
+        "policyId" : "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d24"
+    },
+    "poolAddress" : "stake1uy2sen7rpnl95wq8retfaq4gc3m0tdrcssl4dcq3n7sshzsc4f4nc"
+}
