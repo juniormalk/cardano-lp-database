@@ -1,0 +1,14 @@
+{
+    "name": "6c7020a303",
+    "policyId" : "0029cb7c88c7567b63d1a512c0ed626aa169688ec980730c0473b913",
+    "defiName" : "sundaeswap",
+    "tokenA": {
+        "name": "",
+        "policyId" : ""
+    },
+    "tokenB": {
+        "name": "4f4358",
+        "policyId" : "330013d4da4b87484f1c702de5e50ba5d97c1957dde6ae8a3ab2e349"
+    },
+    "poolAddress" : "addr1w9qzpelu9hn45pefc0xr4ac4kdxeswq7pndul2vuj59u8tqaxdznu"
+}
